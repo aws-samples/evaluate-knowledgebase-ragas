@@ -1,6 +1,6 @@
-## Samples to evaluate a knowledge base with RAGAS
+## Evaluate a knowledge base with RAGAS
 
-This repository contains samples to evaluate a [Bedrock knowledge base](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html) with the [RAGAS framework](https://docs.ragas.io/en/stable/)
+This repository contains **unofficial samples** to evaluate a [Bedrock knowledge base](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html) with the [RAGAS framework](https://docs.ragas.io/en/stable/)
 
 1. Run the **prereq_setup.sh** script to install Python and RAGAS
 
